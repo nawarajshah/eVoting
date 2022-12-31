@@ -1,10 +1,10 @@
 // styles
-import styles from './Profile.module.css'
+import styles from './Result.module.css'
 
-export default function login() {
+export default function result() {
     return (
         <div>
-            Profile
+            Result
         </div>
     )
 }
